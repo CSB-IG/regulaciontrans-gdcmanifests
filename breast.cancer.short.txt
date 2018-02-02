@@ -1,0 +1,4 @@
+id	filename	md5	size	state
+4a6279a2-6328-49e8-8afe-06641cf1ed00	0320d3aa-0b8c-4bda-854a-eed5a2d48eda.htseq.counts.gz	e39902c512abcf40cab976fd3a347429	253085	live
+f27a0b2a-5acc-4b0d-b5b4-1e1be0d09374	b76eefac-da30-4ee4-9670-4afc45f86b4b.htseq.counts.gz	5fb06076df398bfbcfe6c287511b8cab	254472	live
+551d3a58-88f4-4ccd-8b7a-0d86c4c69ce4	b3b6981a-b5db-481c-bc27-76a114856b03.htseq.counts.gz	133386a9b5781b17fa8a9d4be036272d	250918	live
